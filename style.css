@@ -44,8 +44,8 @@ a {
 }
 
 .main-img {
-    width: 50%;
-    height: 60%;
+    width: 50vw;
+    height: 60vh;
     margin: 0 0 0 auto;
     display: block;
     position: relative;
